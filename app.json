@@ -1,0 +1,18 @@
+{
+    "name": "samserver1",
+    "description": "Deploy samserver1 on Heroku.",
+    "keywords": ["myapp"],
+    "env": {
+        "ID": {
+            "description": "UUID",
+            "value": "9e7f013f-44ba-48f3-866e-0a34fc7291bc"
+        },
+        "WSPATH": {
+            "description": "path",
+            "value": "/web"
+        }
+    },
+    "website": "https://ibcl.us/20191014/",
+    "repository": "https://github.com/youki1983/youki1983test/tree/vless",
+    "stack": "container"
+}
